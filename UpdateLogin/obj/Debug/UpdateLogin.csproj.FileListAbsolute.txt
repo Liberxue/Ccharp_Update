@@ -19,3 +19,8 @@ D:\更新程序\UpdateLogin\obj\Debug\UpdateLogin.UpdatePrecent.resources
 D:\更新程序\UpdateLogin\obj\Debug\UpdateLogin.csproj.GenerateResource.Cache
 D:\更新程序\UpdateLogin\obj\Debug\UpdateLogin.exe
 D:\更新程序\UpdateLogin\obj\Debug\UpdateLogin.pdb
+\\Mac\Home\Documents\ccharpupdate\UpdateLogin\bin\Debug\UpdateLogin.exe.config
+\\Mac\Home\Documents\ccharpupdate\UpdateLogin\obj\Debug\Interop.IWshRuntimeLibrary.dll
+\\Mac\Home\Documents\ccharpupdate\UpdateLogin\obj\Debug\UpdateLogin.csproj.ResolveComReference.cache
+\\Mac\Home\Documents\ccharpupdate\UpdateLogin\obj\Debug\UpdateLogin.exe
+\\Mac\Home\Documents\ccharpupdate\UpdateLogin\obj\Debug\UpdateLogin.pdb

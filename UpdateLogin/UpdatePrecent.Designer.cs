@@ -62,10 +62,10 @@
             this.panel1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.panel1.Controls.Add(this.lbl_Info);
             this.panel1.Controls.Add(this.label2);
-            this.panel1.Location = new System.Drawing.Point(42, 54);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4);
+            this.panel1.Location = new System.Drawing.Point(56, 72);
+            this.panel1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(919, 240);
+            this.panel1.Size = new System.Drawing.Size(1225, 320);
             this.panel1.TabIndex = 14;
             // 
             // lbl_Info
@@ -76,10 +76,10 @@
             this.lbl_Info.Dock = System.Windows.Forms.DockStyle.Fill;
             this.lbl_Info.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.lbl_Info.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.lbl_Info.Location = new System.Drawing.Point(0, 36);
-            this.lbl_Info.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lbl_Info.Location = new System.Drawing.Point(0, 48);
+            this.lbl_Info.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.lbl_Info.Name = "lbl_Info";
-            this.lbl_Info.Size = new System.Drawing.Size(919, 204);
+            this.lbl_Info.Size = new System.Drawing.Size(1225, 272);
             this.lbl_Info.TabIndex = 0;
             this.lbl_Info.Text = "正在更新最新版本....";
             this.lbl_Info.Click += new System.EventHandler(this.lbl_Click);
@@ -92,9 +92,9 @@
             this.label2.Font = new System.Drawing.Font("微软雅黑", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.label2.ForeColor = System.Drawing.Color.Yellow;
             this.label2.Location = new System.Drawing.Point(0, 0);
-            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(919, 36);
+            this.label2.Size = new System.Drawing.Size(1225, 48);
             this.label2.TabIndex = 1;
             this.label2.Text = "更 新 说 明";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -106,20 +106,20 @@
             this.lbl_SUM.BackColor = System.Drawing.Color.Transparent;
             this.lbl_SUM.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.lbl_SUM.ForeColor = System.Drawing.Color.White;
-            this.lbl_SUM.Location = new System.Drawing.Point(80, 408);
-            this.lbl_SUM.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lbl_SUM.Location = new System.Drawing.Point(107, 544);
+            this.lbl_SUM.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.lbl_SUM.Name = "lbl_SUM";
-            this.lbl_SUM.Size = new System.Drawing.Size(108, 28);
+            this.lbl_SUM.Size = new System.Drawing.Size(143, 36);
             this.lbl_SUM.TabIndex = 15;
             this.lbl_SUM.Text = "文件：0/0";
             this.lbl_SUM.MouseDown += new System.Windows.Forms.MouseEventHandler(this.Control_MouseDown);
             // 
             // pb_All
             // 
-            this.pb_All.Location = new System.Drawing.Point(85, 350);
-            this.pb_All.Margin = new System.Windows.Forms.Padding(4);
+            this.pb_All.Location = new System.Drawing.Point(113, 467);
+            this.pb_All.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.pb_All.Name = "pb_All";
-            this.pb_All.Size = new System.Drawing.Size(848, 40);
+            this.pb_All.Size = new System.Drawing.Size(1131, 53);
             this.pb_All.TabIndex = 16;
             // 
             // lbl_Size
@@ -128,10 +128,10 @@
             this.lbl_Size.BackColor = System.Drawing.Color.Transparent;
             this.lbl_Size.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.lbl_Size.ForeColor = System.Drawing.Color.White;
-            this.lbl_Size.Location = new System.Drawing.Point(619, 408);
-            this.lbl_Size.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lbl_Size.Location = new System.Drawing.Point(825, 544);
+            this.lbl_Size.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.lbl_Size.Name = "lbl_Size";
-            this.lbl_Size.Size = new System.Drawing.Size(314, 30);
+            this.lbl_Size.Size = new System.Drawing.Size(419, 40);
             this.lbl_Size.TabIndex = 15;
             this.lbl_Size.Text = "大小:0MB/0MB";
             this.lbl_Size.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -152,13 +152,13 @@
             this.SynSpeed,
             this.SynProgress});
             this.dgvDownLoad.GridColor = System.Drawing.SystemColors.ButtonShadow;
-            this.dgvDownLoad.Location = new System.Drawing.Point(46, 442);
-            this.dgvDownLoad.Margin = new System.Windows.Forms.Padding(4);
+            this.dgvDownLoad.Location = new System.Drawing.Point(61, 589);
+            this.dgvDownLoad.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.dgvDownLoad.Name = "dgvDownLoad";
             this.dgvDownLoad.ReadOnly = true;
             this.dgvDownLoad.RowHeadersVisible = false;
             this.dgvDownLoad.RowTemplate.Height = 23;
-            this.dgvDownLoad.Size = new System.Drawing.Size(897, 62);
+            this.dgvDownLoad.Size = new System.Drawing.Size(1196, 83);
             this.dgvDownLoad.TabIndex = 17;
             // 
             // Image
@@ -221,10 +221,10 @@
             this.btn_OK.Enabled = false;
             this.btn_OK.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btn_OK.Font = new System.Drawing.Font("微软雅黑", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.btn_OK.Location = new System.Drawing.Point(803, 521);
-            this.btn_OK.Margin = new System.Windows.Forms.Padding(4);
+            this.btn_OK.Location = new System.Drawing.Point(1071, 695);
+            this.btn_OK.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.btn_OK.Name = "btn_OK";
-            this.btn_OK.Size = new System.Drawing.Size(130, 52);
+            this.btn_OK.Size = new System.Drawing.Size(173, 69);
             this.btn_OK.TabIndex = 19;
             this.btn_OK.Text = "启动";
             this.btn_OK.UseVisualStyleBackColor = false;
@@ -236,10 +236,10 @@
             this.cb_Start.BackColor = System.Drawing.Color.Transparent;
             this.cb_Start.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.cb_Start.ForeColor = System.Drawing.Color.Yellow;
-            this.cb_Start.Location = new System.Drawing.Point(442, 535);
-            this.cb_Start.Margin = new System.Windows.Forms.Padding(4);
+            this.cb_Start.Location = new System.Drawing.Point(589, 713);
+            this.cb_Start.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.cb_Start.Name = "cb_Start";
-            this.cb_Start.Size = new System.Drawing.Size(269, 32);
+            this.cb_Start.Size = new System.Drawing.Size(349, 40);
             this.cb_Start.TabIndex = 18;
             this.cb_Start.Text = "更新完毕自动启动主程序";
             this.cb_Start.UseVisualStyleBackColor = false;
@@ -251,10 +251,10 @@
             this.lbl_Other.BackColor = System.Drawing.Color.Transparent;
             this.lbl_Other.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.lbl_Other.ForeColor = System.Drawing.Color.White;
-            this.lbl_Other.Location = new System.Drawing.Point(38, 525);
-            this.lbl_Other.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lbl_Other.Location = new System.Drawing.Point(51, 700);
+            this.lbl_Other.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.lbl_Other.Name = "lbl_Other";
-            this.lbl_Other.Size = new System.Drawing.Size(300, 46);
+            this.lbl_Other.Size = new System.Drawing.Size(400, 61);
             this.lbl_Other.TabIndex = 15;
             this.lbl_Other.Text = "云博软件o13自动更新c#版";
             this.lbl_Other.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -266,10 +266,10 @@
             this.lbl_Close.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.lbl_Close.ForeColor = System.Drawing.Color.White;
             this.lbl_Close.Image = global::UpdateLogin.Properties.Resources.btn_close_disable;
-            this.lbl_Close.Location = new System.Drawing.Point(940, -3);
-            this.lbl_Close.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lbl_Close.Location = new System.Drawing.Point(1253, -4);
+            this.lbl_Close.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.lbl_Close.Name = "lbl_Close";
-            this.lbl_Close.Size = new System.Drawing.Size(60, 40);
+            this.lbl_Close.Size = new System.Drawing.Size(80, 53);
             this.lbl_Close.TabIndex = 34;
             this.lbl_Close.Click += new System.EventHandler(this.lbl_Click);
             this.lbl_Close.MouseDown += new System.Windows.Forms.MouseEventHandler(this.lbl_MouseDown);
@@ -282,10 +282,10 @@
             this.lbl_Min.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.lbl_Min.ForeColor = System.Drawing.Color.White;
             this.lbl_Min.Image = global::UpdateLogin.Properties.Resources.btn_mini_normal;
-            this.lbl_Min.Location = new System.Drawing.Point(890, -3);
-            this.lbl_Min.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lbl_Min.Location = new System.Drawing.Point(1187, -4);
+            this.lbl_Min.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.lbl_Min.Name = "lbl_Min";
-            this.lbl_Min.Size = new System.Drawing.Size(57, 40);
+            this.lbl_Min.Size = new System.Drawing.Size(76, 53);
             this.lbl_Min.TabIndex = 34;
             this.lbl_Min.Click += new System.EventHandler(this.lbl_Click);
             this.lbl_Min.MouseDown += new System.Windows.Forms.MouseEventHandler(this.lbl_MouseDown);
@@ -303,10 +303,10 @@
             this.lbl_Title.BackColor = System.Drawing.Color.Transparent;
             this.lbl_Title.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.lbl_Title.ForeColor = System.Drawing.Color.Red;
-            this.lbl_Title.Location = new System.Drawing.Point(13, 23);
-            this.lbl_Title.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lbl_Title.Location = new System.Drawing.Point(17, 31);
+            this.lbl_Title.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.lbl_Title.Name = "lbl_Title";
-            this.lbl_Title.Size = new System.Drawing.Size(236, 31);
+            this.lbl_Title.Size = new System.Drawing.Size(310, 41);
             this.lbl_Title.TabIndex = 35;
             this.lbl_Title.Text = "         您有新的更新 !";
             this.lbl_Title.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -317,10 +317,10 @@
             this.lbl_Error.BackColor = System.Drawing.Color.Transparent;
             this.lbl_Error.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.lbl_Error.ForeColor = System.Drawing.Color.Red;
-            this.lbl_Error.Location = new System.Drawing.Point(80, 294);
-            this.lbl_Error.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lbl_Error.Location = new System.Drawing.Point(107, 392);
+            this.lbl_Error.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.lbl_Error.Name = "lbl_Error";
-            this.lbl_Error.Size = new System.Drawing.Size(853, 96);
+            this.lbl_Error.Size = new System.Drawing.Size(1137, 128);
             this.lbl_Error.TabIndex = 36;
             this.lbl_Error.Text = "错误";
             this.lbl_Error.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -330,19 +330,19 @@
             // lbl_Wait
             // 
             this.lbl_Wait.Image = global::UpdateLogin.Properties.Resources.load;
-            this.lbl_Wait.Location = new System.Drawing.Point(443, 449);
-            this.lbl_Wait.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lbl_Wait.Location = new System.Drawing.Point(591, 599);
+            this.lbl_Wait.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.lbl_Wait.Name = "lbl_Wait";
-            this.lbl_Wait.Size = new System.Drawing.Size(74, 46);
+            this.lbl_Wait.Size = new System.Drawing.Size(99, 61);
             this.lbl_Wait.TabIndex = 37;
             // 
             // UpdatePrecent
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::UpdateLogin.Properties.Resources._235071_130526134J078;
+            this.BackColor = System.Drawing.Color.DeepSkyBlue;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.ClientSize = new System.Drawing.Size(1002, 582);
+            this.ClientSize = new System.Drawing.Size(1336, 776);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.lbl_Size);
             this.Controls.Add(this.lbl_Wait);
@@ -358,7 +358,7 @@
             this.Controls.Add(this.lbl_SUM);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(4);
+            this.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.Name = "UpdatePrecent";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "在线自动更新 !";
