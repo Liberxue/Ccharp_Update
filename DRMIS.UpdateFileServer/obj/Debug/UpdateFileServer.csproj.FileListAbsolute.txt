@@ -1,0 +1,9 @@
+D:\MyWork\WinFormApp\Program\DRMIS.UpdateFileServer\bin\Debug\UpdateFileServer.exe.config
+D:\MyWork\WinFormApp\Program\DRMIS.UpdateFileServer\bin\Debug\UpdateFileServer.exe
+D:\MyWork\WinFormApp\Program\DRMIS.UpdateFileServer\bin\Debug\UpdateFileServer.pdb
+D:\MyWork\WinFormApp\Program\DRMIS.UpdateFileServer\obj\Debug\UpdateFileServer.csprojResolveAssemblyReference.cache
+D:\MyWork\WinFormApp\Program\DRMIS.UpdateFileServer\obj\Debug\UpdateFileServer.ConfigForm.resources
+D:\MyWork\WinFormApp\Program\DRMIS.UpdateFileServer\obj\Debug\UpdateFileServer.Properties.Resources.resources
+D:\MyWork\WinFormApp\Program\DRMIS.UpdateFileServer\obj\Debug\UpdateFileServer.csproj.GenerateResource.Cache
+D:\MyWork\WinFormApp\Program\DRMIS.UpdateFileServer\obj\Debug\UpdateFileServer.exe
+D:\MyWork\WinFormApp\Program\DRMIS.UpdateFileServer\obj\Debug\UpdateFileServer.pdb

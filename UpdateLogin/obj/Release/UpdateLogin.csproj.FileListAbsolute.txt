@@ -1,0 +1,11 @@
+D:\MyWork\WinFormApp\Program\UpdateLogin\bin\Release\UpdateLogin.exe.config
+D:\MyWork\WinFormApp\Program\UpdateLogin\bin\Release\UpdateLogin.exe
+D:\MyWork\WinFormApp\Program\UpdateLogin\bin\Release\UpdateLogin.pdb
+D:\MyWork\WinFormApp\Program\UpdateLogin\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\MyWork\WinFormApp\Program\UpdateLogin\obj\Release\UpdateLogin.csproj.ResolveComReference.cache
+D:\MyWork\WinFormApp\Program\UpdateLogin\obj\Release\UpdateLogin.Properties.Resources.resources
+D:\MyWork\WinFormApp\Program\UpdateLogin\obj\Release\UpdateLogin.UpdatePrecent.resources
+D:\MyWork\WinFormApp\Program\UpdateLogin\obj\Release\UpdateLogin.csproj.GenerateResource.Cache
+D:\MyWork\WinFormApp\Program\UpdateLogin\obj\Release\UpdateLogin.exe
+D:\MyWork\WinFormApp\Program\UpdateLogin\obj\Release\UpdateLogin.pdb
+D:\MyWork\WinFormApp\Program\UpdateLogin\obj\Release\UpdateLogin.csprojResolveAssemblyReference.cache

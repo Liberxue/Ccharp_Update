@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Version>10.0.0.1</Version>
+  <Remark>jjhjhjhhjjhdfkskfjsdf</Remark>
+  <Files>
+    <File Name="UpdateFileServer.exe.config" Version="20151022021234" Size="184" />
+    <File Name="UpdateFileServer.pdb" Version="20151116080608" Size="40448" />
+    <File Name="UpdateFileServer.exe" Version="20151116080608" Size="185344" />
+  </Files>
+</Config>
